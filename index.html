@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Login Page</title>
+  <link rel="stylesheet" href="Login1.css">
+  <link rel="shortcut icon" href="Logo3.jpg" type="image/x-icon">
+  <script>
+    function login(){
+       
+        var UserName=document.getElementById("UserName").value
+        var Password=document.getElementById("Password").value
+
+        if(UserName=="admin" && Password=="admin123"){
+            window.location.href="Main.html"
+            alert("log in success")
+            return false;
+        }
+        else{
+            alert("Invalid Id or Password")
+        }
+    }
+</script>
+</head>
+<body background="Background.jpg">
+  <header>
+    <div class="contain">
+      <img src="logo5-removebg-preview.png" class="haha">
+      <nav>
+        <li><a href="#"></a></li>
+      </nav>
+    </div>
+  </header>
+  
+  <div class="container">
+    
+    <div>
+    <h1 id="H1">Login</h1>
+    <form action="/login" method="post">
+        
+        <input type="text" name="" id="UserName" placeholder="username"><br>
+        <input type="password" id="Password" placeholder="password"><br>
+        <button type="submit" id="button" onclick="login()">LOG IN</button>
+    </form>
+  </div>
+</div>
+
+</body>
+</html>

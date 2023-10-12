@@ -1,0 +1,82 @@
+[
+  {
+    "question":"Elections to panchayats in state are regulated by?",
+    "choice1":"Gram panchayat",
+    "choice2":"Nagar Nigam ",
+    "choice3":"Election Commission of India",
+    "choice4":"State Election Commission",
+    "answer": 4
+},
+{
+    "question":"Which of the following Himalayan regions is called Shivalik's?",
+    "choice1":"Upper Himalayas",
+    "choice2":"Lower Himalayas",
+    "choice3":"Outer Himalayas",
+    "choice4":"Inner Himalayas ",
+    "answer": 3
+},
+{
+    "question":"Right to emergency medical aid is a...",
+    "choice1":"Legal Right",
+    "choice2":"Illegal Right",
+    "choice3":"Constitutional Right",
+    "choice4":"Fundamental Right.",
+    "answer": 4
+},
+{
+    "question":"Which of the given devices is used for counting blood cells?",
+    "choice1":"Hmelethometer",
+    "choice2":"Spyscometer",
+    "choice3":"Hemocytometer",
+    "choice4":"Hamosytometer ",
+    "answer": 3
+},
+{
+    "question":"Which of the given cities is located on the bank of river Ganga?",
+    "choice1":"Patna",
+    "choice2":"Gwalior",
+    "choice3":"Bhopal",
+    "choice4":"Mathura",
+    "answer": 1
+},
+{
+    "question":"The driving force of an ecosystem is",
+    "choice1":"Carbon Mono oxide",
+    "choice2":"Biogas",
+    "choice3":"Solar Energy",
+    "choice4":"Carbon dioxide ",
+    "answer": 3
+},
+{
+    "question":"Digestion of food in human beings begins in which part of the alimentary canal?",
+    "choice1":"Liver",
+    "choice2":"Kidney ",
+    "choice3":"Mouth",
+    "choice4":"Large intestine ",
+    "answer": 3
+},
+{
+    "question":"When the metal reacts with dilute acid, which gas is formed?",
+    "choice1":"Carbon Dioxide",
+    "choice2":"Helium",
+    "choice3":"Neon",
+    "choice4":"Hydrogen",
+    "answer": 4
+},
+{
+    "question":" Which canyon is known as 'The Grand Canyon of India' or The Arizona of India??",
+    "choice1":"Gandikota Canyon",
+    "choice2":"Colca Canyon",
+    "choice3":"Copper Canyon",
+    "choice4":"Grand Canyon ",
+    "answer": 1
+},
+{
+    "question":"Who among the following decides if an individual Bill is a Money Bill or not??",
+    "choice1":"Prime Minister",
+    "choice2":"President",
+    "choice3":"Member of Lok Sabha",
+    "choice4":"Speaker of Lok Sabha",
+    "answer": 4
+}
+]

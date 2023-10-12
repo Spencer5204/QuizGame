@@ -1,0 +1,73 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    justify-content: center;
+  }
+  .container {
+    
+   background-color: white;
+   width: 20%;
+   top: 50%;
+   left: 50%;
+   height: 50%;
+   position: absolute;
+   transform: translate(-50%,-50%);
+   text-align: center;
+  }
+  
+  
+  h1 {
+    text-align: center;
+    justify-content: center;
+  }
+  form {
+    margin-top: 20px;
+    justify-content: center;
+  }
+  input {
+    background-color: #d2fde2;
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    justify-content: center;
+    border: 0;
+    outline: 0;
+  }
+  input[type="submit"] {
+    background-color: #d2fde2;
+    color: #003e17;
+    cursor: pointer;
+    justify-content: center;
+  }
+  #button{
+    background-color: #d2fde2 ;
+    border-radius: 10px;
+    height: 30px;
+    width: 120px;
+    border: 0;
+    outline: 0;
+  }
+  .haha{
+    position: fixed;
+    height: auto;
+    left: 0px;
+    width: 200px;
+  }
+  .flex-column {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .flex-center {
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .justify-center {
+    justify-content: center;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
